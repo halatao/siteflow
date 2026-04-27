@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "project": {
+    "name": "Duplicate Slug",
+    "framework": "nextjs"
+  },
+  "content": {
+    "root": "content",
+    "pages": "pages",
+    "assets": "public/uploads"
+  },
+  "localization": {
+    "enabled": true,
+    "defaultLocale": "cs",
+    "locales": ["cs"]
+  },
+  "blocks": {
+    "hero": {}
+  }
+}

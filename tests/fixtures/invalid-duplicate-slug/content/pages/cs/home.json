@@ -1,0 +1,20 @@
+{
+  "id": "home",
+  "locale": "cs",
+  "slug": "/same",
+  "title": "Home",
+  "seo": {
+    "title": "Home",
+    "description": "First duplicate slug page.",
+    "indexable": true
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "props": {
+        "heading": "First"
+      }
+    }
+  ]
+}

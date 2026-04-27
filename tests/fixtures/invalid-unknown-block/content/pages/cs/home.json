@@ -1,0 +1,20 @@
+{
+  "id": "home",
+  "locale": "cs",
+  "slug": "/",
+  "title": "Home",
+  "seo": {
+    "title": "Home",
+    "description": "Page uses an unknown block type.",
+    "indexable": true
+  },
+  "sections": [
+    {
+      "id": "gallery",
+      "type": "gallery",
+      "props": {
+        "heading": "Unsupported"
+      }
+    }
+  ]
+}

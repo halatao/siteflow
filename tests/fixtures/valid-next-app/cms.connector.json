@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "project": {
+    "name": "Valid Next App",
+    "framework": "nextjs",
+    "router": "app",
+    "language": "typescript",
+    "styling": "tailwind"
+  },
+  "content": {
+    "root": "content",
+    "pages": "pages",
+    "assets": "public/uploads"
+  },
+  "localization": {
+    "enabled": true,
+    "defaultLocale": "cs",
+    "locales": ["cs"]
+  },
+  "blocks": {
+    "hero": {},
+    "text": {}
+  }
+}

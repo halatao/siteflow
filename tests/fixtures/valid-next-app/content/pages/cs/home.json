@@ -1,0 +1,23 @@
+{
+  "id": "home",
+  "locale": "cs",
+  "slug": "/",
+  "title": "Domu",
+  "seo": {
+    "title": "Domu",
+    "description": "Ukazkova validni domovska stranka.",
+    "indexable": true
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "variant": "default",
+      "theme": "light",
+      "spacing": "md",
+      "props": {
+        "heading": "Siteflow"
+      }
+    }
+  ]
+}
